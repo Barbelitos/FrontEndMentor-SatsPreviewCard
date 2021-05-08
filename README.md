@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://barbelitos.github.io/FrontEndMentor-SatsPreviewCard/)
 
 ## My process
 
@@ -45,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I have learned transform a design into HTML and CSS code.
+I have learned how to take a design and make it into a web page with HTML and CSS. 
 
 ### Continued development
 
